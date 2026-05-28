@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hijau_gelap">#1B5E20</color>
+    <color name="hijau_muda">#A5D6A7</color>
+
+    <color name="hijau">#4CAF50</color>
+    <color name="orange">#FF9800</color>
+    <color name="merah">#F44336</color>
+</resources>
